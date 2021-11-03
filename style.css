@@ -1,0 +1,48 @@
+body{
+ background-position: center;
+ background-size: cover;
+ font-family: 'chalkboard';
+}
+.transparent{
+    margin-top: 1px;
+    background-color: rgba(224, 96, 224, 0.281);
+    width: 70%;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.note{
+    font-size: 20px;
+}
+.gifLeft{
+    float: left;
+    
+}
+.gifLeft img{
+    width: 200px;
+    border-radius: 100px;
+}
+.gifLeft h3{
+    margin-left: -20px;
+    
+}
+.gifright{
+    float: right;
+
+}
+.gifright img{
+    width: 200px;
+    border-radius: 100px;
+}
+.gifright h3{
+    margin-right: 20px;
+    
+}
+.size{
+    width: 150px;
+    font-size: 20px;
+}
+canvas{
+    border: white,solid;
+    border-radius: 5px;
+}
